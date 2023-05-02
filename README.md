@@ -1,4 +1,4 @@
-### Hi there 👋
+### This project is about the analysis of spotify dataset. First we seperate most popular songs from entire song list. Then we comparethe parametric range of most popular songs and all listed songs. After analyzing the songs we conslude the parametric range for popular songs and draw insights for industry professionals. 
 
 <!--
 **MahavirK1997/MahavirK1997** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
